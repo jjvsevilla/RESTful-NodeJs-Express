@@ -1,0 +1,22 @@
+
+1. create package.json
+npm init
+
+2. install express
+npm install express --save
+
+3. install gulp
+npm install gulp --save
+
+4. install gulp -g to get access from command line
+npm install gulp -g
+
+5. install gulp plugin
+npm install gulp-nodemon --save
+
+6. install mongoose
+npm install mongoose --save
+
+7. install body-parser
+   middleware that allows express to read the body and then parse that into a JSON object that we can understand
+npm install body-parser --save
